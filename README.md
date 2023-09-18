@@ -1,4 +1,4 @@
-# herb-classifier-model
+# Herb Classifier 
  An ML model for classifying medicinal herbs that are commonly found an used in Hela Wedakama.
 
 [![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
@@ -14,13 +14,7 @@
 
 ## Description
 
-This is the API gateway for student registration and attendance management system.  
-This API is built with Python and FastAPI. 
- 
-Lecturers and students can use this system for automating the attendance management process. 
-Uses face recognition for student identification and attendance management. 
-Alternatively, fingerprint recognition and student ID barcode scanning can be used for student 
-identification and attendance management.
+
 
 ## Installation
 
